@@ -1,17 +1,35 @@
-# nasa_cosmos
+# NASA Cosmos
 
-A new Flutter project.
+A stunning Flutter mobile app that brings **NASA's Astronomy Picture of the Day (APOD)** to your phone with a space-themed UI/UX.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Real-time NASA Astronomy Picture of the Day
+- Browse multiple stunning space images
+- Smooth animations and immersive detail view
+- Pull to refresh
+- Modern dark space UI with particle effects
+- Clean architecture with proper state management
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- **Flutter** + Dart
+- NASA Open API
+- `http`, `cached_network_image`, `flutter_animate`, `google_fonts`
+- `animated_background` for particle effects
+
+
+## Screenshots
+
+*![img.png](img.png)*
+
+*![img_1.png](img_1.png)*
+
+
+## How to Run
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/Pomiyilma/Nasa-Cosmos.git
