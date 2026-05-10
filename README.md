@@ -23,9 +23,12 @@ A stunning Flutter mobile app that brings **NASA's Astronomy Picture of the Day 
 
 ## Screenshots
 
-*![img.png](img.png)*
+<p align="center">
+  <img src="assets/images/screenshot-1.png" width="200" alt="App Screenshot 1" />
+  <img src="assets/images/screenshot-2.png" width="200" alt="App Screenshot 2" />
+  <img src="assets/images/screenshot-3.png" width="200" alt="App Screenshot 3" />
+</p>
 
-*![img_1.png](img_1.png)*
 
 
 ## How to Run
